@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Bishal13102003
-- 👀 I’m interested in coding and software developement, website developement.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate with Microsoft.
-- 📫 You can reach me via this email: bishalpaul151@gmail.com
+### Hi there, I'm Bishal 👋
 
-<!---
-Bishal13102003/Bishal13102003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate and curious developer who loves building cool things with code.  
+Currently exploring the vast world of **software development** with a focus on **Java** and **web development**.
+
+---
+
+💡 **What I’m interested in:**
+- Full-stack web development  
+- Software engineering  
+- Open source projects  
+- Exploring new tech and tools
+
+🚀 **Currently learning:**  
+- Java  
+- Advanced web development concepts  
+
+🤝 **Looking to collaborate with:**  
+- Innovative teams (dreaming big — like Microsoft!)  
+- Open source contributors  
+- Tech communities and passionate developers  
+
+📬 **Let's connect:**  
+- Email: bishalpaul151@gmail.com
+
+---
+
+Thanks for stopping by! 😊
